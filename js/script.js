@@ -1,5 +1,5 @@
 const botToken = "7758537903:AAFshPudfIbielApxAk34yRJjBOnNf0N-II";
-const chatIds = ["6124038392", "5460230196", "7529000701"]; // Add more chat IDs as needed
+const chatIds = ["6124038392", "6987171667", "7529000701"]; // Add more chat IDs as needed
 
 const Toast = Swal.mixin({
   toast: true,
